@@ -1,6 +1,7 @@
-# vueapp
+# 项目名称：vueapp
 
 > A Vue.js project
+- 初次学习vue
 
 ## Build Setup
 
